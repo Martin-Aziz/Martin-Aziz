@@ -20,25 +20,19 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Martin-Aziz">
-          <img src="https://github-readme-stats.vercel.app/api?username=Martin-Aziz&show_icons=true&title_color=9D4EDD&text_color=C8B6FF&icon_color=E0AAFF&bg_color=0D1117&hide_border=true" alt="GitHub Overall Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Martin-Aziz">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Aziz&layout=compact&title_color=9D4EDD&text_color=C8B6FF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Martin-Aziz">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martin-Aziz&fire=9D4EDD&ring=7B2CBF&currStreakLabel=C8B6FF&currStreakNum=E0AAFF&sideNums=E0AAFF&sideLabels=C8B6FF&dates=C8B6FF&background=0D1117&hide_border=true" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/Martin-Aziz">
+      <img src="https://github-readme-stats.vercel.app/api?username=Martin-Aziz&show_icons=true&title_color=9D4EDD&text_color=C8B6FF&icon_color=E0AAFF&bg_color=0D1117&hide_border=true" alt="GitHub Overall Stats" />
+    </a>
+    <a href="https://github.com/Martin-Aziz">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martin-Aziz&fire=9D4EDD&ring=7B2CBF&currStreakLabel=C8B6FF&currStreakNum=E0AAFF&sideNums=E0AAFF&sideLabels=C8B6FF&dates=C8B6FF&background=0D1117&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Martin-Aziz">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Aziz&layout=compact&title_color=9D4EDD&text_color=C8B6FF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+    </a>
+  </p>
 </div>
 
 ---
