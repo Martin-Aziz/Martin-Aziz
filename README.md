@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  <h3>Typing SVG</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=800&lines=🚀+Building+the+future%2C+one+commit+at+a+time;🔐+AI+%7C+Cybersecurity+%7C+Systems+%7C+Products;💡+Turning+complex+problems+into+elegant+solutions;🌍+Based+in+Germany+%7C+Open+to+global+opportunities;⚡+Let%27s+build+something+extraordinary+together" alt="Typing SVG" />
 </div>
 
@@ -296,7 +297,7 @@ open_to: [Internships, Full-time, Freelance]
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/martin-aziz">
+  <a href="https://linkedin.com/in/martinushd">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
