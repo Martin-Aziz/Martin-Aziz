@@ -59,7 +59,6 @@ focus:
 languages_spoken:
   - German  🇩🇪
   - English  🇬🇧
-  - Arabic   🇸🇦
 currently_leveling_up:
   - Advanced Reverse Engineering
   - LLM Agents & RAG Systems
