@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,30:3c096c,65:7B2CBF,100:9D4EDD&height=200&section=header&text=Martin%20Aziz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Systems%20%E2%80%A2%20Builder&descSize=20&descAlignY=65&descColor=E0AAFF" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=800&lines=🚀+Building+the+future%2C+one+commit+at+a+time;🔐+AI+%7C+Cybersecurity+%7C+Systems+%7C+Products;💡+Turning+complex+problems+into+elegant+solutions;🌍+Based+in+Germany+%7C+Open+to+global+opportunities;⚡+Let%27s+build+something+extraordinary+together" alt="Typing SVG" />
+</div>
+
+
 # Hi, I'm Martin 👋
 
 📍 **Germany 🇩🇪** | 🤖 **AI & Systems Engineer** | 🔐 **Cybersecurity Enthusiast**
@@ -21,9 +26,6 @@
 
 > *"I don't just write code — I engineer solutions."* A relentless drive to build things that matter — from bare-metal systems to intelligent AI applications. Sitting at the intersection of AI, Security, and Systems Engineering.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=800&lines=🚀+Building+the+future%2C+one+commit+at+a+time;🔐+AI+%7C+Cybersecurity+%7C+Systems+%7C+Products;💡+Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
-</div>
 
 ## Current Projects
 
