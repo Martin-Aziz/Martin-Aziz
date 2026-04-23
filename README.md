@@ -55,7 +55,6 @@
 - **Leveling up:** Deep diving into Advanced Reverse Engineering and Distributed Systems in Rust.
 - **Exploring AI:** Building multi-agent platforms, persistent AI memory systems, and autonomous orchestration runtimes.
 - **Building:** Fast, secure backend services using Go, Rust, and modern tooling.
-- **Open to:** Internships, Full-time opportunities, and Freelance work worldwide.
 
 ## Open Source
 
