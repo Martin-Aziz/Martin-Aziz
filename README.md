@@ -26,14 +26,6 @@
 
 
 ## Current Projects
-
-*(Example projects - I will update these manually!)*
-
-- 🤖 **[AutoRevEng](#)** - Automated reverse engineering analysis using LLMs and Ghidra headless scripts.
-- 🦀 **[Rust-OS-Kernel](#)** - Exploring bare-metal development and x86_64 architecture with a custom operating system written in Rust.
-- 🔐 **[ForensicX](#)** - High-performance digital forensics CLI tool built in Go for parsing artifact logs and memory dumps.
-- ⚡ **[AI-Agent-Swarm](#)** - Python-based multi-agent framework utilizing LangChain for complex problem-solving and tool execution.
-- 📱 **[SecureVault App](#)** - End-to-end encrypted secure note-taking mobile application built with Flutter and Rust FFI.
 - 🌙 **[Moonlit Reel](https://github.com/Martin-Aziz/Moonlit-Reel)** - The definitive offline-first media experience for macOS — blazing-fast library management, world-class audiobook player, and real-time audio processing. No subscriptions. No cloud dependency. No compromises.
 - 🔒 **[Encora](https://github.com/Martin-Aziz/Encora)** - Privacy-first messaging with a web app, shared validation contracts, and a Go API boundary.
 - ✍️ **[Whisper Page](https://github.com/Martin-Aziz/Whisper-Page)** - Write at the speed of thought — A blazingly fast, beautiful local markdown editor built with Tauri + React.
