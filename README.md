@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,30:3c096c,65:7B2CBF,100:9D4EDD&height=200&section=header&text=Martin%20Aziz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Systems%20%E2%80%A2%20Builder&descSize=20&descAlignY=65&descColor=E0AAFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,30:3c096c,65:7B2CBF,100:9D4EDD&height=200&section=header&text=Martin%20Aziz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open%20Source%20Builder%20%E2%80%A2%20AI%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Systems%20%E2%80%A2%20Engineer&descSize=20&descAlignY=65&descColor=E0AAFF" />
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+AI+%7C+Cybersecurity+%7C+Systems+%7C+Products;%F0%9F%92%A1+Turning+complex+problems+into+elegant+solutions;%F0%9F%8C%8D+Based+in+Germany+%7C+Open+to+global+opportunities;%E2%9A%A1+Let%27s+build+something+extraordinary+together)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+AI+%7C+Cybersecurity+%7C+Systems+%7C+Open+Source;%F0%9F%92%A1+Turning+complex+problems+into+elegant+solutions;%F0%9F%8C%8D+15%2B+open-source+projects+and+counting;%E2%9A%A1+Everything+I+build%2C+I+share+with+the+world)
 
 
 # Hi, I'm Martin 👋
 
-📍 **Germany 🇩🇪** | 🤖 **AI & Systems Engineer** | 🔐 **Cybersecurity Enthusiast**
+📍 **Germany 🇩🇪** | 🤖 **AI & Systems Engineer** | 🔐 **Cybersecurity** | 🌍 **Open Source Builder**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,6 +36,10 @@
 - 🧠 **[Forever-Memory](https://github.com/Martin-Aziz/Forever-Memory)** - CORTEX-01: A distributed memory engine for AI agents providing persistent context, time-travel queries, and agent-to-agent communication with cryptographic verification.
 - 🖼️ **[ApertureOS](https://github.com/Martin-Aziz/ApertureOS)** - PixelForge: Open-source, browser-first image editor designed as a modern Photoshop-class alternative, with production-ready frontend, backend, AI service, and WASM pixel core.
 - 🏆 **[NIL-Core](https://github.com/Martin-Aziz/The-Automated-Athlete-Enterprise-Platform)** - Enterprise-grade AI platform for NIL monetization — automated content generation with Fair Market Value compliance for collegiate athletics, solving athlete scale, brand compliance, and Title IX risk.
+- 🤝 **[Smart Buddy](https://github.com/Martin-Aziz/Sage)** - Your personal AI agent, always in your corner. A multi-agent personal assistant platform where each user gets a persistent AI agent that learns preferences, manages tasks with explicit approval workflows, coordinates with other agents, and delivers daily AI-generated briefings.
+- 🧠 **[NerveOS](https://github.com/Martin-Aziz/NerveOS)** - Agent-Native Integration OS built for AI agents in production. Eliminates context flooding, manages authentication with precision, and provides enterprise-grade governance for reliable agent deployments.
+- 🔩 **[Entropy-Zero (Kintsu)](https://github.com/Martin-Aziz/Kintsu)** - 金継ぎ — A self-healing data orchestrator that acts as an autonomous immune system for data infrastructure. Diagnoses root causes and fixes broken pipelines automatically using AI-powered remediation agents.
+- 🐝 **[RED-HIVE](https://github.com/Martin-Aziz/RED-HIVE)** - Autonomous code-security swarm powered by genetic algorithms and LLMs. Deploys armies of AI agents that learn, adapt, and share knowledge to continuously discover vulnerabilities in web applications.
 
 ## GitHub Activity
 
@@ -47,10 +51,18 @@
 
 ## What I'm Doing
 
+- **Open Source:** Building and shipping production-grade open-source tools across AI, security, and systems — everything I make is public.
 - **Leveling up:** Deep diving into Advanced Reverse Engineering and Distributed Systems in Rust.
-- **Exploring AI:** Building robust RAG systems and autonomous LLM agents.
-- **Building:** Fast, secure backend services using Go and modern tooling.
+- **Exploring AI:** Building multi-agent platforms, persistent AI memory systems, and autonomous orchestration runtimes.
+- **Building:** Fast, secure backend services using Go, Rust, and modern tooling.
 - **Open to:** Internships, Full-time opportunities, and Freelance work worldwide.
+
+## Open Source
+
+All my projects are open source — I believe in building in public and contributing to the community.
+
+[![GitHub](https://img.shields.io/badge/All%20Projects-Open%20Source-9D4EDD?style=flat-square&logo=github&logoColor=white)](https://github.com/Martin-Aziz)
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-9D4EDD?style=flat-square)
 
 ## Academic & Technical Journey
 
