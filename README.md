@@ -40,6 +40,10 @@
 - 🧠 **[NerveOS](https://github.com/Martin-Aziz/NerveOS)** - Agent-Native Integration OS built for AI agents in production. Eliminates context flooding, manages authentication with precision, and provides enterprise-grade governance for reliable agent deployments.
 - 🔩 **[Entropy-Zero (Kintsu)](https://github.com/Martin-Aziz/Kintsu)** - 金継ぎ — A self-healing data orchestrator that acts as an autonomous immune system for data infrastructure. Diagnoses root causes and fixes broken pipelines automatically using AI-powered remediation agents.
 - 🐝 **[RED-HIVE](https://github.com/Martin-Aziz/RED-HIVE)** - Autonomous code-security swarm powered by genetic algorithms and LLMs. Deploys armies of AI agents that learn, adapt, and share knowledge to continuously discover vulnerabilities in web applications.
+- 🤖 **[AutonomIQ Procurement](https://github.com/Martin-Aziz/AutonomIQ_Procurement)** - Open-source autonomous AI agent platform for enterprise procurement automation — streamlining procurement workflows with intelligent, self-governing AI agents.
+- 🧬 **[NUCLEUS-OS](https://github.com/Martin-Aziz/The-Bio-Agentic-Compiler)** - Bio-agentic compiler for autonomous DBTL campaigns — transforms natural-language enzyme optimization hypotheses into variant designs, deterministic protocols, biosafety audit gates, hardware dispatch, and analyzed result ingestion.
+- 🎭 **[Deepfake-Verify](https://github.com/Martin-Aziz/Deepfake-Verify)** - Cryptographic video verification system that prevents deepfake attacks by signing every 2-second video chunk with TPM-bound certificates, displaying real-time verification badges, and invisibly watermarking videos for leak tracing — making deepfake attacks cryptographically impossible.
+- ⚡ **[Momentum](https://github.com/Martin-Aziz/momentum-app)** - A productivity application designed to help you maintain momentum and achieve your goals.
 
 ## GitHub Activity
 
