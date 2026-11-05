@@ -1,191 +1,236 @@
+<!--
+  PROFILE EDITION / 2026
+  Editorial hierarchy inspired by Persian manuscript design (tazhib).
+  Decorative motion is limited to self-hosted GIFs and a typewriter SVG.
+  Motion is never required to understand or navigate this README.
+-->
 <p align="center">
-  <img src="assets/hero.svg" alt="Martin Aziz — software engineer and product builder focused on AI systems, reliable backends, security, and native applications." width="100%" />
+  <img src="assets/hero.svg" width="100%" alt="Martin Aziz — software engineer and product builder. An ornamental cobalt-and-gold editorial banner inspired by Persian manuscript illumination." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1100&color=8B92CF&center=true&vCenter=true&width=820&height=42&lines=From+prototype+to+verified+implementation.;Agent+workflows+with+real+security+boundaries.;Building+software+people+can+actually+use." alt="Engineering focus: verified implementation, secure agent workflows, and usable products." />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=21&duration=3800&pause=1300&color=AC8654&center=true&vCenter=true&width=760&height=48&lines=Thoughtful+products.+Reliable+systems.;From+human+ideas+to+working+software.;Built+with+curiosity.+Finished+with+care." alt="Thoughtful products. Reliable systems. From human ideas to working software." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/martinushd/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-24548E?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:martinazizhd@gmail.com"><img alt="Email Martin" src="https://img.shields.io/badge/Email-Say%20hello-4A5069?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Martin-Aziz?tab=repositories"><img alt="Explore public repositories" src="https://img.shields.io/badge/GitHub-Explore%20code-20263E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Martin-Aziz?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20THE%20WORK-163A5B?style=for-the-badge&logo=github&logoColor=F4E3C2" alt="Explore my public projects" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/martinushd/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-AC8654?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Connect with me on LinkedIn" /></a>
 </p>
 
-## Hello, I'm Martin.
+<p align="center">
+  <img src="assets/ornament-loop.gif" width="670" alt="" />
+</p>
 
-I build software across **industrial automation, AI systems, backend infrastructure, security, and native applications**. I enjoy the whole engineering loop: understanding a real problem, shaping the product, designing the architecture, implementing it, and testing where it can fail.
+<p align="center"><sub>AN INTRODUCTION · FROM IDEAS TO ENGINEERING</sub></p>
 
-My background combines computer science with hands-on work in **software development, product management, and AI-enabled finance workflows at SAP**. These days I am especially interested in **agent reliability, distributed workflows, developer tooling, and well-designed user experiences**.
+<h2 align="center">Good software makes complexity feel simple.</h2>
 
-> **Engineering principle:** A compelling demo is the beginning. Clear boundaries, reproducible tests, understandable failure modes, and a useful interface make it software worth maintaining.
+<p align="center">
+  I am <b>Martin</b> — a software engineer and product builder working across<br/>
+  <b>AI systems, industrial automation, backend reliability, security, and native applications.</b><br/><br/>
+  I like to understand the person before the problem,<br/>
+  the failure modes before the launch,<br/>
+  and the details that turn a prototype into a product people can trust.
+</p>
 
-### What I work with
+<p align="center">
+  <sub>Computer science · Engineering and product experience at SAP · Open-source development</sub>
+</p>
 
-| Area | Core technologies and interests |
-|:--|:--|
-| **Languages** | Go · Rust · Python · TypeScript · Swift · SQL |
-| **Backend & data** | REST APIs · PostgreSQL · SQLite · Redis · concurrency · idempotency · event-driven workflows |
-| **AI engineering** | LLM orchestration · agent tool use · RAG · evaluation · memory and retrieval · MCP |
-| **Applications** | React · Next.js · Tauri · SwiftUI · full-stack product design |
-| **Engineering quality** | Docker · automated testing · threat modeling · authorization boundaries · observability · reproducible builds |
+<p align="center">
+  <a href="#products-with-a-purpose">Selected products</a> &nbsp;·&nbsp;
+  <a href="#engineering-beneath-the-surface">Engineering</a> &nbsp;·&nbsp;
+  <a href="#the-wider-work">More work</a> &nbsp;·&nbsp;
+  <a href="#the-way-i-build">My approach</a>
+</p>
 
-## Product spotlights
+---
 
-I enjoy taking a product from a real-world problem to its interface, data model, backend boundaries, and verification. Here are four **original public repositories** at different stages of development.
+<p align="center"><sub>CHAPTER I / PRODUCT ENGINEERING</sub></p>
+<h2 align="center">Products with a purpose</h2>
 
-### 01 / Aurevix — Industrial robotics with deployment guardrails
-
-<a href="https://github.com/Martin-Aziz/RoboApprentice-v3">
-  <img src="https://raw.githubusercontent.com/Martin-Aziz/RoboApprentice-v3/master/app-screenshots-hd/04-teach-viewport.png" alt="Aurevix robot teaching and simulation viewport, from the public project." width="100%" />
-</a>
-
-**[Explore Aurevix / RoboApprentice v3](https://github.com/Martin-Aziz/RoboApprentice-v3)**
-
-A browser-based robotics application exploring how industrial robots can learn tasks from human demonstrations. It brings together 3D robot visualization, reach/payload feasibility estimates, robot and end-effector compatibility, and reusable automation descriptions.
-
-A particularly interesting engineering problem is **deployment trust**. Aurevix records version-bound evidence, human review, approval decisions, policy fingerprints, and audit history, invalidating prior approvals when a task changes. This makes automation easier to inspect, without replacing qualified workcell safety assessments.
-
-`TypeScript` · `Next.js` · `React` · `Three.js` · `URDF` · `Robotics`
-
-<sub><b>Scope:</b> simulation and guarded review workflows; no claim of certified physical-robot safety.</sub>
-
-### 02–04 / Product experience and full-stack execution
+<p align="center"><i>Different domains. One conviction: useful technology should feel intentional.</i></p>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="58%" valign="top">
+      <p><sub>01 / INDUSTRIAL ROBOTICS</sub></p>
+      <h3><a href="https://github.com/Martin-Aziz/RoboApprentice-v3">Aurevix · RoboApprentice v3</a></h3>
+      <p><i>From a human demonstration to a robot task worth reviewing.</i></p>
+      <p>A browser-based robotics workspace for teaching tasks, visualizing robot motion, and exploring reach, payload, and hardware compatibility. The compelling question is not simply <em>“Can a robot do this?”</em> but <em>“What evidence makes it safe to proceed?”</em></p>
+      <p><b>The engineering:</b> task-version fingerprints, qualified-review checkpoints, an append-only demo audit history, and approval invalidation when the task changes.</p>
+      <p><code>Next.js</code> <code>Three.js</code> <code>TypeScript</code> <code>Robotics</code></p>
+      <p><a href="https://github.com/Martin-Aziz/RoboApprentice-v3">Explore the robotics platform →</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <p><sub>02 / NATIVE IOS</sub></p>
       <h3><a href="https://github.com/Martin-Aziz/Martinus_mobile_App">Martinus Mobile</a></h3>
-      <p><b>Native personal productivity</b></p>
-      <p>A private-by-design iPhone app for goals, daily planning, journaling, focus sessions, and reflection. SwiftUI screens, SwiftData persistence, notifications, and home/lock-screen widgets.</p>
-      <p><code>Swift</code> <code>SwiftUI</code> <code>SwiftData</code></p>
-      <sub>Local-first; cloud sync and some integrations remain future work.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Martin-Aziz/HorseWatcher">HorseWatcher</a></h3>
-      <p><b>Equine monitoring concept</b></p>
-      <p>An interactive horse-monitoring demo: per-animal baselines, live-style health metrics, alert states, and an optional context-aware AI assistant in a responsive dashboard.</p>
-      <p><code>Next.js</code> <code>React Query</code> <code>Claude CLI</code></p>
-      <sub>Frontend prototype; simulated data, not connected wearable sensors.</sub>
+      <p><i>A quieter way to make progress.</i></p>
+      <p>A personal iPhone companion for goals, journaling, planning, and focus. Built around local data, thoughtful SwiftUI interactions, notification services, and widgets.</p>
+      <p><b>The engineering:</b> SwiftData persistence, MVVM/repository boundaries, and on-device operation.</p>
+      <p><code>SwiftUI</code> <code>SwiftData</code> <code>WidgetKit</code></p>
+      <p><a href="https://github.com/Martin-Aziz/Martinus_mobile_App">Explore the iOS app →</a></p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td valign="top">
+      <p><sub>03 / AI SOFTWARE ENGINEERING</sub></p>
+      <h3><a href="https://github.com/Martin-Aziz/Martinus_coding_Agent">Martinus Coding Agent</a></h3>
+      <p><i>Automation should earn the right to change your code.</i></p>
+      <p>A local-first coding-agent research project organized around discovery, architecture, implementation, review, and verification.</p>
+      <p><b>The engineering:</b> isolated worktrees, explicit permission tiers, repository maps, and optional independent verification before applying changes.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Tauri</code> <code>Rust</code></p>
+      <p><a href="https://github.com/Martin-Aziz/Martinus_coding_Agent">Explore the coding agent →</a></p>
+    </td>
+    <td valign="top">
+      <p><sub>04 / WRITING TOOLS</sub></p>
       <h3><a href="https://github.com/Martin-Aziz/OpenRewrite-Studio">OpenRewrite Studio</a></h3>
-      <p><b>Writing transformation workspace</b></p>
-      <p>A rewriting tool with side-by-side sentence diffs, tone and strength controls, meaning-preservation warnings, and adaptable local or external model providers.</p>
-      <p><code>TypeScript</code> <code>Go</code> <code>FastAPI</code></p>
-      <sub>Self-hostable foundation; meaning checks flag risks rather than guaranteeing equivalence.</sub>
+      <p><i>Change the voice. Keep the meaning in view.</i></p>
+      <p>A writing workspace with tone controls, sentence-level comparisons, rewrite strength, and meaning-preservation warnings.</p>
+      <p><b>The engineering:</b> a Next.js studio, Go API, Python AI service, and local/provider-adapter options.</p>
+      <p><code>Next.js</code> <code>Go</code> <code>FastAPI</code></p>
+      <p><a href="https://github.com/Martin-Aziz/OpenRewrite-Studio">Explore the studio →</a></p>
     </td>
   </tr>
 </table>
 
-## Systems and developer tooling
+<p align="center"><sub>Product truth matters: Aurevix is not a certified robot deployment system; Martinus Mobile remains local-first; OpenRewrite's meaning checks are warnings, not guarantees.</sub></p>
 
-These six repositories complement the user-facing products and show the backend, infrastructure, and security decisions behind my approach.
+<p align="center"><img src="assets/signal-loop.gif" width="540" alt="" /></p>
+
+<p align="center"><sub>CHAPTER II / THE SYSTEMS BEHIND THE EXPERIENCE</sub></p>
+<h2 align="center">Engineering beneath the surface</h2>
+<p align="center"><i>Reliability is rarely the first thing you see. It is what lets everything else hold.</i></p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Martin-Aziz/reliable-workflows-lab">01 · Reliable Workflows Lab</a></h3>
-      <p>A Go job-processing lab for idempotent submissions, worker leases, retries, crash recovery, and PostgreSQL-backed job state. Documents the trade-offs between an in-memory engine and durable execution.</p>
-      <p><code>Go</code> <code>PostgreSQL</code> <code>Concurrency</code> <code>Testing</code></p>
-      <sub><b>Status:</b> actively evolving; real-database durability certification is still pending.</sub>
+      <p><sub>BACKEND RELIABILITY · GO</sub></p>
+      <h3><a href="https://github.com/Martin-Aziz/reliable-workflows-lab">Reliable Workflows Lab</a></h3>
+      <p>Designing for the moment a worker crashes, a request repeats, or two processes race. A job-processing lab exploring idempotency, leases, retry policy, PostgreSQL state, and recoverability.</p>
+      <sub>Real-database durability certification remains pending.</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Martin-Aziz/Codex-Bridge.">02 · Codex Bridge</a></h3>
-      <p>A local-first control plane for Codex coding sessions: authenticated API, SQLite task history, structured reports, dashboard, and a scoped MCP endpoint. Designed with explicit local security boundaries.</p>
-      <p><code>TypeScript</code> <code>Node.js</code> <code>SQLite</code> <code>Codex SDK</code></p>
-      <sub><b>Status:</b> read-only local prototype; remote tunnel integration is not claimed as live.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Martin-Aziz/Martinus_coding_Agent">03 · Martinus Coding Agent</a></h3>
-      <p>A local-first coding-agent research project with staged planning and verification, sandboxed worktrees, permission tiers, repository mapping, and an optional independent reviewer.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>Rust</code> <code>Tauri</code></p>
-      <sub><b>Focus:</b> software-agent architecture, isolation, and verification.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Martin-Aziz/Scopra">04 · Scopra / NEXUS-MCP</a></h3>
-      <p>An MCP gateway MVP exploring access control, human approval for sensitive actions, revocation, and auditable agent tool use across a Go API, Rust CLI, and web dashboard.</p>
-      <p><code>Go</code> <code>Rust</code> <code>Next.js</code> <code>Security</code></p>
-      <sub><b>Status:</b> MVP; external connector execution remains stubbed.</sub>
+      <p><sub>AGENT SUPERVISION · TYPESCRIPT</sub></p>
+      <h3><a href="https://github.com/Martin-Aziz/Codex-Bridge.">Codex Bridge</a></h3>
+      <p>Inspect and supervise coding-agent tasks from a local dashboard. Authenticated APIs, persistent SQLite task history, reports, and scoped MCP tooling make agent work more understandable.</p>
+      <sub>Local, read-only prototype; live tunnel integration is not claimed.</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Martin-Aziz/Moonlit-Reel">05 · Moonlit Reel</a></h3>
-      <p>An offline-first macOS media application combining a SwiftUI interface with a Rust core for library indexing, search, audio processing, and audiobook-oriented playback flows.</p>
-      <p><code>SwiftUI</code> <code>Rust</code> <code>AVFoundation</code> <code>Desktop</code></p>
-      <sub><b>Focus:</b> native experience, performance-oriented architecture, and local data.</sub>
+    <td valign="top">
+      <p><sub>NATIVE PERFORMANCE · SWIFT + RUST</sub></p>
+      <h3><a href="https://github.com/Martin-Aziz/Moonlit-Reel">Moonlit Reel</a></h3>
+      <p>A local-first macOS media experience: SwiftUI on the surface, a Rust core for scanning, search, and audio-oriented workflows beneath it.</p>
+      <sub>Explores native UI, FFI boundaries, and local ownership of content.</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Martin-Aziz/RepoPulse">06 · RepoPulse</a></h3>
-      <p>A small, read-only GitHub repository intelligence CLI. It inspects issues, pull requests, recent commits, and aging work, with bounded pagination, JSON output, and offline tests.</p>
-      <p><code>TypeScript</code> <code>GitHub REST API</code> <code>CLI</code> <code>Tests</code></p>
-      <sub><b>Focus:</b> careful API integration and clearly documented limits.</sub>
+    <td valign="top">
+      <p><sub>SECURE AGENT INTEGRATIONS · GO + RUST</sub></p>
+      <h3><a href="https://github.com/Martin-Aziz/Scopra">Scopra / NEXUS-MCP</a></h3>
+      <p>An integration gateway MVP exploring permissions, revocation, human approvals, and an auditable control plane for agent-initiated tool calls.</p>
+      <sub>External SaaS connector execution remains stubbed in the MVP.</sub>
     </td>
   </tr>
 </table>
-
-## Open-source ecosystem
-
-**[SoundCraft](https://github.com/Martin-Aziz/soundcraft)** is my fork of **[storytold/SoundCraft](https://github.com/storytold/soundcraft)**, a community-developed Rust digital audio workstation. I am interested in the real-time audio architecture, mixing, MIDI, plugin systems, and agent-accessible automation interfaces.
-
-**Attribution:** SoundCraft originates with the ArtCraft community. This repository is a fork, **not an independently authored DAW**; I do not claim the upstream implementation or unverified contributions as my own.
-
-## More public projects
-
-| Discipline | Selected repositories | What they explore |
-|:--|:--|:--|
-| **Agent infrastructure** | [NerveOS](https://github.com/Martin-Aziz/NerveOS) · [Forever-Memory](https://github.com/Martin-Aziz/Forever-Memory) · [Symphony-OS](https://github.com/Martin-Aziz/Symphony-OS) | Context shaping, persistent agent memory, orchestration, and governance architectures. |
-| **Security engineering** | [Deepfake-Verify](https://github.com/Martin-Aziz/Deepfake-Verify) · [RED-HIVE](https://github.com/Martin-Aziz/RED-HIVE) | Video provenance experiments and controlled, authorization-based security testing. |
-| **Native & creative tools** | [Whisper Page](https://github.com/Martin-Aziz/Whisper-Page) · [ApertureOS](https://github.com/Martin-Aziz/ApertureOS) | Local-first editing and a browser/desktop image-processing MVP foundation. |
-| **Product & integration** | [Encora](https://github.com/Martin-Aziz/Encora) · [SentinelClaims](https://github.com/Martin-Aziz/SentinelClaims) · [AutonomIQ Procurement](https://github.com/Martin-Aziz/AutonomIQ_Procurement) | Application boundaries and exploratory enterprise workflow products. |
-
-Projects range from research and proof-of-concept implementations to more complete applications. A repository's README is the source of truth for current scope, tests, and limitations. I do not present unverified prototypes as deployed production systems.
 
 <details>
-  <summary><b>Browse other public repositories and open-source contributions</b></summary>
-
-  <p>My GitHub also includes experiments, learning projects, tools, and contributions to other maintainers' repositories. Forks and contributions are distinct from original projects.</p>
-  <ul>
-    <li><a href="https://github.com/Martin-Aziz?tab=repositories">Full repository directory</a></li>
-    <li><a href="https://github.com/Martin-Aziz?tab=repositories&type=source">Original repositories</a></li>
-    <li><a href="https://github.com/Martin-Aziz?tab=repositories&type=fork">Forks and upstream exploration</a></li>
-    <li><a href="https://github.com/Martin-Aziz/reliable-workflows-lab">Reliability patterns and backend engineering</a></li>
-  </ul>
+  <summary><b>More engineering tools — and the decisions behind them</b></summary>
+  <p><b><a href="https://github.com/Martin-Aziz/RepoPulse">RepoPulse</a></b> — A read-only GitHub API CLI with bounded pagination, issue/PR analysis, JSON output, and offline tests.</p>
+  <p><b><a href="https://github.com/Martin-Aziz/NerveOS">NerveOS</a></b> — Agent integration architecture investigating scoped context, auth boundaries, and governance.</p>
+  <p><b><a href="https://github.com/Martin-Aziz/Forever-Memory">Forever-Memory</a></b> — Persistent memory, time-travel queries, and cryptographically signed context-sharing concepts.</p>
+  <p><b><a href="https://github.com/Martin-Aziz/Symphony-OS">Symphony-OS</a></b> — Agent orchestration and scheduling architecture with an exploratory control plane.</p>
 </details>
 
-## Selected private product work
+<p align="center"><img src="assets/ornament-loop.gif" width="580" alt="" /></p>
 
-Other product-focused engineering work is developed in private repositories. These are **high-level portfolio descriptions only**; no private code, credentials, internal architecture diagrams, or customer information is published here.
+<p align="center"><sub>CHAPTER III / CURIOSITY AT WORK</sub></p>
+<h2 align="center">The wider work</h2>
+<p align="center"><i>Some projects solve a defined problem. Others begin with a question worth exploring.</i></p>
 
-- **Finance operations software** — workflows for reconciliation, reporting, exception handling, approvals, and traceable AI-assisted operations.
-- **Field-service intelligence** — equipment-aware troubleshooting assistance, document-grounded guidance, and technician workflow support.
-- **Engineering document quality** — evidence-linked drawing analysis with human review, issue triage, and traceability.
-- **Native camera experiences** — iOS image capture, live image looks, portrait controls, and photography-oriented interaction design.
-- **Collaborative marketing software** — a shared workspace combining product workflows, APIs, and specialized AI assistants.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>DESIGN &amp; PRODUCT EXPERIMENTS</sub></p>
+      <h3><a href="https://github.com/Martin-Aziz/HorseWatcher">HorseWatcher</a></h3>
+      <p>A beautifully detailed concept for equine monitoring: dashboards, simulated vital signs, personal baselines, alerts, and an optional contextual AI assistant.</p>
+      <sub>Frontend demo only — no real sensors or clinical monitoring.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>OPEN-SOURCE EXPLORATION</sub></p>
+      <h3><a href="https://github.com/Martin-Aziz/soundcraft">SoundCraft</a></h3>
+      <p>My fork of the <a href="https://github.com/storytold/soundcraft">ArtCraft community's SoundCraft</a> project: an ambitious Rust digital audio workstation and a fascinating codebase for audio, mixing, and MIDI systems.</p>
+      <sub>Upstream project by the community; this fork does not establish authored contributions.</sub>
+    </td>
+  </tr>
+</table>
 
-*Code samples and implementation details are not publicly available for these projects. Their presence here does not imply open-source availability or a production release.*
+<details>
+  <summary><b>More public repositories, arranged by discipline</b></summary>
+  <p><b>AI infrastructure:</b> <a href="https://github.com/Martin-Aziz/NerveOS">NerveOS</a> · <a href="https://github.com/Martin-Aziz/Forever-Memory">Forever-Memory</a> · <a href="https://github.com/Martin-Aziz/Symphony-OS">Symphony-OS</a></p>
+  <p><b>Security:</b> <a href="https://github.com/Martin-Aziz/Deepfake-Verify">Deepfake-Verify</a> · <a href="https://github.com/Martin-Aziz/RED-HIVE">RED-HIVE</a></p>
+  <p><b>Native &amp; creative:</b> <a href="https://github.com/Martin-Aziz/Whisper-Page">Whisper Page</a> · <a href="https://github.com/Martin-Aziz/ApertureOS">ApertureOS</a></p>
+  <p><b>Enterprise products:</b> <a href="https://github.com/Martin-Aziz/Encora">Encora</a> · <a href="https://github.com/Martin-Aziz/SentinelClaims">SentinelClaims</a> · <a href="https://github.com/Martin-Aziz/AutonomIQ_Procurement">AutonomIQ Procurement</a></p>
+  <p><a href="https://github.com/Martin-Aziz?tab=repositories">View all public repositories →</a> · <a href="https://github.com/Martin-Aziz?tab=repositories&type=fork">Explore forks separately →</a></p>
+  <p>Repositories range from exploratory foundations to more developed applications. Individual READMEs document scope and known limitations.</p>
+</details>
 
-## How I approach engineering
+<details>
+  <summary><b>Selected visual notes — screenshots from the repositories</b></summary>
+  <p><b>Aurevix · Teaching and simulation viewport</b></p>
+  <p><a href="https://github.com/Martin-Aziz/RoboApprentice-v3"><img src="https://raw.githubusercontent.com/Martin-Aziz/RoboApprentice-v3/master/app-screenshots-hd/04-teach-viewport.png" width="650" alt="Aurevix robot teaching and simulation viewport, sourced from the public repository." /></a></p>
+  <p>Product screenshots appear here rather than at the top, so the profile opens with the story instead of a gallery.</p>
+</details>
 
-1. **Design for failure.** Think about retries, idempotency, authorization, cancellations, and partial progress before they become incidents.
-2. **Make decisions inspectable.** Prefer explicit contracts, useful logs, architectural notes, and traceable results over opaque automation.
-3. **Verify the important paths.** Isolated tests, integration checks, and reproducible failure cases matter more than a green-looking dashboard.
-4. **Care about the product.** Good software should be understandable to its users, not just impressive to its implementers.
+<p align="center"><sub>AND THE WORK THAT ISN'T PUBLIC</sub></p>
+<h3 align="center">Private products, public principles</h3>
+<p align="center">Some of my work remains in private repositories. I can discuss the product challenges without exposing code, customer details, or confidential designs.</p>
+<p align="center"><b>Finance operations</b> · <b>Field-service intelligence</b> · <b>Engineering-document QA</b><br/><b>Camera experiences</b> · <b>Collaborative marketing workflows</b></p>
+<p align="center"><sub>These are portfolio-level summaries, not claims of public source availability or production deployment.</sub></p>
+
+<p align="center"><img src="assets/signal-loop.gif" width="490" alt="" /></p>
+
+<p align="center"><sub>CHAPTER IV / THE CRAFT</sub></p>
+<h2 align="center">The way I build</h2>
+<p align="center"><i>Good engineering is both discipline and imagination.</i></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Begin with the person</h3>
+      <p>Understand who needs the solution and what a good outcome actually looks like.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Design for the hard day</h3>
+      <p>Retries, authorization, auditability, partial failures, and recovery are product features too.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>03 · Make evidence visible</h3>
+      <p>Use tests, clear contracts, traces, and honest limits. Confidence should be earned.</p>
+    </td>
+    <td valign="top">
+      <h3>04 · Refine until it feels natural</h3>
+      <p>Care about the experience as much as the architecture behind it.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <b>Interested in reliable AI systems, product engineering, or backend architecture?</b><br/>
-  <a href="https://www.linkedin.com/in/martinushd/">Let's connect on LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:martinazizhd@gmail.com">Email me</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Martin-Aziz?tab=repositories">Explore the code</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4000&pause=1800&color=AC8654&center=true&vCenter=true&width=750&height=43&lines=Build+with+care.;Verify+with+evidence.;Make+something+worth+using." alt="Build with care. Verify with evidence. Make something worth using." />
 </p>
 
+<p align="center"><img src="assets/ornament-loop.gif" width="670" alt="" /></p>
+
+<h3 align="center">Let's create something thoughtful.</h3>
 <p align="center">
-  <sub>The portfolio prioritizes clear engineering explanations and meaningful product screenshots over heavy animation.</sub>
+  If you're working on ambitious products, reliable backend systems, or responsible AI,<br/>
+  I'd enjoy exchanging ideas.
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/martinushd/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-AC8654?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:martinazizhd@gmail.com"><img src="https://img.shields.io/badge/SEND%20A%20MESSAGE-163A5B?style=for-the-badge&logo=gmail&logoColor=F4E3C2" alt="Send me an email" /></a>
+</p>
+<p align="center"><sub>Designed as a readable portfolio first. Decorative animations add atmosphere; every link and section remains usable without them.</sub></p>
