@@ -54,21 +54,23 @@ A particularly interesting engineering problem is **deployment trust**. Aurevix 
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Martin-Aziz/Martinus_mobile_App">Martinus Mobile</a></h3>
       <p><b>Native personal productivity</b></p>
       <p>A private-by-design iPhone app for goals, daily planning, journaling, focus sessions, and reflection. SwiftUI screens, SwiftData persistence, notifications, and home/lock-screen widgets.</p>
       <p><code>Swift</code> <code>SwiftUI</code> <code>SwiftData</code></p>
       <sub>Local-first; cloud sync and some integrations remain future work.</sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Martin-Aziz/HorseWatcher">HorseWatcher</a></h3>
       <p><b>Equine monitoring concept</b></p>
       <p>An interactive horse-monitoring demo: per-animal baselines, live-style health metrics, alert states, and an optional context-aware AI assistant in a responsive dashboard.</p>
       <p><code>Next.js</code> <code>React Query</code> <code>Claude CLI</code></p>
       <sub>Frontend prototype; simulated data, not connected wearable sensors.</sub>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/Martin-Aziz/OpenRewrite-Studio">OpenRewrite Studio</a></h3>
       <p><b>Writing transformation workspace</b></p>
       <p>A rewriting tool with side-by-side sentence diffs, tone and strength controls, meaning-preservation warnings, and adaptable local or external model providers.</p>
