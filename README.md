@@ -14,7 +14,7 @@
 
 ## Hello, I'm Martin.
 
-I build software across **backend systems, applied AI, security, and native experiences**. I enjoy the whole engineering loop: understanding a real problem, shaping the product, designing the architecture, implementing it, and testing where it can fail.
+I build software across **industrial automation, AI systems, backend infrastructure, security, and native applications**. I enjoy the whole engineering loop: understanding a real problem, shaping the product, designing the architecture, implementing it, and testing where it can fail.
 
 My background combines computer science with hands-on work in **software development, product management, and AI-enabled finance workflows at SAP**. These days I am especially interested in **agent reliability, distributed workflows, developer tooling, and well-designed user experiences**.
 
@@ -30,9 +30,57 @@ My background combines computer science with hands-on work in **software develop
 | **Applications** | React · Next.js · Tauri · SwiftUI · full-stack product design |
 | **Engineering quality** | Docker · automated testing · threat modeling · authorization boundaries · observability · reproducible builds |
 
-## Featured engineering work
+## Product spotlights
 
-Six repositories that show *how I approach engineering*, not just what I build. Links go to public source code and project documentation.
+I enjoy taking a product from a real-world problem to its interface, data model, backend boundaries, and verification. Here are four **original public repositories** at different stages of development.
+
+### 01 / Aurevix — Industrial robotics with deployment guardrails
+
+<a href="https://github.com/Martin-Aziz/RoboApprentice-v3">
+  <img src="https://raw.githubusercontent.com/Martin-Aziz/RoboApprentice-v3/master/app-screenshots-hd/04-teach-viewport.png" alt="Aurevix robot teaching and simulation viewport, from the public project." width="100%" />
+</a>
+
+**[Explore Aurevix / RoboApprentice v3](https://github.com/Martin-Aziz/RoboApprentice-v3)**
+
+A browser-based robotics application exploring how industrial robots can learn tasks from human demonstrations. It brings together 3D robot visualization, reach/payload feasibility estimates, robot and end-effector compatibility, and reusable automation descriptions.
+
+A particularly interesting engineering problem is **deployment trust**. Aurevix records version-bound evidence, human review, approval decisions, policy fingerprints, and audit history, invalidating prior approvals when a task changes. This makes automation easier to inspect, without replacing qualified workcell safety assessments.
+
+`TypeScript` · `Next.js` · `React` · `Three.js` · `URDF` · `Robotics`
+
+<sub><b>Scope:</b> simulation and guarded review workflows; no claim of certified physical-robot safety.</sub>
+
+### 02–04 / Product experience and full-stack execution
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/Martinus_mobile_App">Martinus Mobile</a></h3>
+      <p><b>Native personal productivity</b></p>
+      <p>A private-by-design iPhone app for goals, daily planning, journaling, focus sessions, and reflection. SwiftUI screens, SwiftData persistence, notifications, and home/lock-screen widgets.</p>
+      <p><code>Swift</code> <code>SwiftUI</code> <code>SwiftData</code></p>
+      <sub>Local-first; cloud sync and some integrations remain future work.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/HorseWatcher">HorseWatcher</a></h3>
+      <p><b>Equine monitoring concept</b></p>
+      <p>An interactive horse-monitoring demo: per-animal baselines, live-style health metrics, alert states, and an optional context-aware AI assistant in a responsive dashboard.</p>
+      <p><code>Next.js</code> <code>React Query</code> <code>Claude CLI</code></p>
+      <sub>Frontend prototype; simulated data, not connected wearable sensors.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/OpenRewrite-Studio">OpenRewrite Studio</a></h3>
+      <p><b>Writing transformation workspace</b></p>
+      <p>A rewriting tool with side-by-side sentence diffs, tone and strength controls, meaning-preservation warnings, and adaptable local or external model providers.</p>
+      <p><code>TypeScript</code> <code>Go</code> <code>FastAPI</code></p>
+      <sub>Self-hostable foundation; meaning checks flag risks rather than guaranteeing equivalence.</sub>
+    </td>
+  </tr>
+</table>
+
+## Systems and developer tooling
+
+These six repositories complement the user-facing products and show the backend, infrastructure, and security decisions behind my approach.
 
 <table>
   <tr>
@@ -79,6 +127,12 @@ Six repositories that show *how I approach engineering*, not just what I build. 
   </tr>
 </table>
 
+## Open-source ecosystem
+
+**[SoundCraft](https://github.com/Martin-Aziz/soundcraft)** is my fork of **[storytold/SoundCraft](https://github.com/storytold/soundcraft)**, a community-developed Rust digital audio workstation. I am interested in the real-time audio architecture, mixing, MIDI, plugin systems, and agent-accessible automation interfaces.
+
+**Attribution:** SoundCraft originates with the ArtCraft community. This repository is a fork, **not an independently authored DAW**; I do not claim the upstream implementation or unverified contributions as my own.
+
 ## More public projects
 
 | Discipline | Selected repositories | What they explore |
@@ -104,7 +158,7 @@ Projects range from research and proof-of-concept implementations to more comple
 
 ## Selected private product work
 
-Some of my most product-focused engineering work is developed in private repositories. These are **high-level portfolio descriptions only**; no private code, credentials, internal architecture diagrams, or customer information is published here.
+Other product-focused engineering work is developed in private repositories. These are **high-level portfolio descriptions only**; no private code, credentials, internal architecture diagrams, or customer information is published here.
 
 - **Finance operations software** — workflows for reconciliation, reporting, exception handling, approvals, and traceable AI-assisted operations.
 - **Field-service intelligence** — equipment-aware troubleshooting assistance, document-grounded guidance, and technician workflow support.
@@ -131,5 +185,5 @@ Some of my most product-focused engineering work is developed in private reposit
 </p>
 
 <p align="center">
-  <sub>Motion is intentionally minimal. The portfolio remains readable when animated images are blocked or reduced.</sub>
+  <sub>The portfolio prioritizes clear engineering explanations and meaningful product screenshots over heavy animation.</sub>
 </p>
