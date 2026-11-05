@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&duration=3800&pause=1300&color=AC8654&center=true&vCenter=true&width=760&height=48&lines=Thoughtful+products.+Reliable+systems.;From+human+ideas+to+working+software.;Built+with+curiosity.+Finished+with+care." alt="Thoughtful products. Reliable systems. From human ideas to working software." />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=21&duration=3800&pause=1300&color=AC8654&center=true&vCenter=true&width=760&height=48&lines=Thoughtful+products.+Reliable+systems.;From+human+ideas+to+working+software.;Built+with+curiosity.+Finished+with+care." alt="Thoughtful products. Reliable systems. From human ideas to working software." />
 </p>
 
 <p align="center">
@@ -39,10 +39,10 @@
 </p>
 
 <p align="center">
-  <a href="#chapter-i--products-with-a-purpose">Selected products</a> &nbsp;·&nbsp;
-  <a href="#chapter-ii--engineering-beneath-the-surface">Engineering</a> &nbsp;·&nbsp;
-  <a href="#chapter-iii--the-wider-work">More work</a> &nbsp;·&nbsp;
-  <a href="#chapter-iv--the-way-i-build">My approach</a>
+  <a href="#products-with-a-purpose">Selected products</a> &nbsp;·&nbsp;
+  <a href="#engineering-beneath-the-surface">Engineering</a> &nbsp;·&nbsp;
+  <a href="#the-wider-work">More work</a> &nbsp;·&nbsp;
+  <a href="#the-way-i-build">My approach</a>
 </p>
 
 ---
@@ -218,7 +218,7 @@
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=4000&pause=1800&color=AC8654&center=true&vCenter=true&width=750&height=43&lines=Build+with+care.;Verify+with+evidence.;Make+something+worth+using." alt="Build with care. Verify with evidence. Make something worth using." />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4000&pause=1800&color=AC8654&center=true&vCenter=true&width=750&height=43&lines=Build+with+care.;Verify+with+evidence.;Make+something+worth+using." alt="Build with care. Verify with evidence. Make something worth using." />
 </p>
 
 <p align="center"><img src="assets/ornament-loop.gif" width="670" alt="" /></p>
