@@ -1,104 +1,135 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,30:3c096c,65:7B2CBF,100:9D4EDD&height=200&section=header&text=Martin%20Aziz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open%20Source%20Builder%20%E2%80%A2%20AI%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Systems%20%E2%80%A2%20Engineer&descSize=20&descAlignY=65&descColor=E0AAFF" />
-</div>
+<p align="center">
+  <img src="assets/hero.svg" alt="Martin Aziz — software engineer and product builder focused on AI systems, reliable backends, security, and native applications." width="100%" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%90+AI+%7C+Cybersecurity+%7C+Systems+%7C+Open+Source;%F0%9F%92%A1+Turning+complex+problems+into+elegant+solutions;%F0%9F%8C%8D+15%2B+open-source+projects+and+counting;%E2%9A%A1+Everything+I+build%2C+I+share+with+the+world)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1100&color=8B92CF&center=true&vCenter=true&width=820&height=42&lines=From+prototype+to+verified+implementation.;Agent+workflows+with+real+security+boundaries.;Building+software+people+can+actually+use." alt="Engineering focus: verified implementation, secure agent workflows, and usable products." />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/martinushd/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-24548E?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:martinazizhd@gmail.com"><img alt="Email Martin" src="https://img.shields.io/badge/Email-Say%20hello-4A5069?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Martin-Aziz?tab=repositories"><img alt="Explore public repositories" src="https://img.shields.io/badge/GitHub-Explore%20code-20263E?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-# Hi, I'm Martin 👋
+## Hello, I'm Martin.
 
-📍 **Germany 🇩🇪** | 🤖 **AI & Systems Engineer** | 🔐 **Cybersecurity** | 🌍 **Open Source Builder**
+I build software across **backend systems, applied AI, security, and native experiences**. I enjoy the whole engineering loop: understanding a real problem, shaping the product, designing the architecture, implementing it, and testing where it can fail.
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+My background combines computer science with hands-on work in **software development, product management, and AI-enabled finance workflows at SAP**. These days I am especially interested in **agent reliability, distributed workflows, developer tooling, and well-designed user experiences**.
 
-> *"I don't just write code — I engineer solutions."* A relentless drive to build things that matter — from bare-metal systems to intelligent AI applications. Sitting at the intersection of AI, Security, and Systems Engineering.
+> **Engineering principle:** A compelling demo is the beginning. Clear boundaries, reproducible tests, understandable failure modes, and a useful interface make it software worth maintaining.
 
+### What I work with
 
-## Current Projects
-- 🌙 **[Moonlit Reel](https://github.com/Martin-Aziz/Moonlit-Reel)** - The definitive offline-first media experience for macOS — blazing-fast library management, world-class audiobook player, and real-time audio processing. No subscriptions. No cloud dependency. No compromises.
-- 🔒 **[Encora](https://github.com/Martin-Aziz/Encora)** - Privacy-first messaging with a web app, shared validation contracts, and a Go API boundary.
-- ✍️ **[Whisper Page](https://github.com/Martin-Aziz/Whisper-Page)** - Write at the speed of thought — A blazingly fast, beautiful local markdown editor built with Tauri + React.
-- 🛡️ **[SentinelClaims](https://github.com/Martin-Aziz/SentinelClaims)** - Intelligent Claims Intake & Subrogation Identification Platform for P&C Auto Insurance — compound AI & governance platform that automates claims triage, detects subrogation opportunities, assesses fraud risk, and provides an auditable Human-in-the-Loop investigator workbench.
-- 🔧 **[ERP-Self-Heal](https://github.com/Martin-Aziz/ERP-Self-Heal)** - Secure read-only finance-ops assistant that ingests ERP exports, detects inconsistencies, generates confidence-thresholded suggestions, and produces audit-ready exports with an immutable hash-chain trail.
-- 🎼 **[Symphony-OS](https://github.com/Martin-Aziz/Symphony-OS)** - Enterprise agent orchestration runtime ("Kubernetes for AI agents") with a Rust kernel scheduler, Firecracker/gVisor sandboxing, SPIFFE/SPIRE identity, MCP-native tooling, HITL middleware, observability/FinOps, and Kubernetes deployment assets.
-- 🏛️ **[GovProposal](https://github.com/Martin-Aziz/GovProposal)** - Cuts through the government contracting maze — searches SAM.gov listings, matches opportunities to your business profile, and generates compliant proposals so small and mid-size companies don't miss out.
-- 🧠 **[Forever-Memory](https://github.com/Martin-Aziz/Forever-Memory)** - CORTEX-01: A distributed memory engine for AI agents providing persistent context, time-travel queries, and agent-to-agent communication with cryptographic verification.
-- 🖼️ **[ApertureOS](https://github.com/Martin-Aziz/ApertureOS)** - PixelForge: Open-source, browser-first image editor designed as a modern Photoshop-class alternative, with production-ready frontend, backend, AI service, and WASM pixel core.
-- 🏆 **[NIL-Core](https://github.com/Martin-Aziz/The-Automated-Athlete-Enterprise-Platform)** - Enterprise-grade AI platform for NIL monetization — automated content generation with Fair Market Value compliance for collegiate athletics, solving athlete scale, brand compliance, and Title IX risk.
-- 🤝 **[Smart Buddy](https://github.com/Martin-Aziz/Sage)** - Your personal AI agent, always in your corner. A multi-agent personal assistant platform where each user gets a persistent AI agent that learns preferences, manages tasks with explicit approval workflows, coordinates with other agents, and delivers daily AI-generated briefings.
-- 🧠 **[NerveOS](https://github.com/Martin-Aziz/NerveOS)** - Agent-Native Integration OS built for AI agents in production. Eliminates context flooding, manages authentication with precision, and provides enterprise-grade governance for reliable agent deployments.
-- 🔩 **[Entropy-Zero (Kintsu)](https://github.com/Martin-Aziz/Kintsu)** - 金継ぎ — A self-healing data orchestrator that acts as an autonomous immune system for data infrastructure. Diagnoses root causes and fixes broken pipelines automatically using AI-powered remediation agents.
-- 🐝 **[RED-HIVE](https://github.com/Martin-Aziz/RED-HIVE)** - Autonomous code-security swarm powered by genetic algorithms and LLMs. Deploys armies of AI agents that learn, adapt, and share knowledge to continuously discover vulnerabilities in web applications.
-- 🤖 **[AutonomIQ Procurement](https://github.com/Martin-Aziz/AutonomIQ_Procurement)** - Open-source autonomous AI agent platform for enterprise procurement automation — streamlining procurement workflows with intelligent, self-governing AI agents.
-- 🧬 **[NUCLEUS-OS](https://github.com/Martin-Aziz/The-Bio-Agentic-Compiler)** - Bio-agentic compiler for autonomous DBTL campaigns — transforms natural-language enzyme optimization hypotheses into variant designs, deterministic protocols, biosafety audit gates, hardware dispatch, and analyzed result ingestion.
-- 🎭 **[Deepfake-Verify](https://github.com/Martin-Aziz/Deepfake-Verify)** - Cryptographic video verification system that prevents deepfake attacks by signing every 2-second video chunk with TPM-bound certificates, displaying real-time verification badges, and invisibly watermarking videos for leak tracing — making deepfake attacks cryptographically impossible.
-- ⚡ **[Momentum](https://github.com/Martin-Aziz/momentum-app)** - A productivity application designed to help you maintain momentum and achieve your goals.
+| Area | Core technologies and interests |
+|:--|:--|
+| **Languages** | Go · Rust · Python · TypeScript · Swift · SQL |
+| **Backend & data** | REST APIs · PostgreSQL · SQLite · Redis · concurrency · idempotency · event-driven workflows |
+| **AI engineering** | LLM orchestration · agent tool use · RAG · evaluation · memory and retrieval · MCP |
+| **Applications** | React · Next.js · Tauri · SwiftUI · full-stack product design |
+| **Engineering quality** | Docker · automated testing · threat modeling · authorization boundaries · observability · reproducible builds |
 
-## GitHub Activity
+## Featured engineering work
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/7B2CBF/Martin-Aziz)
+Six repositories that show *how I approach engineering*, not just what I build. Links go to public source code and project documentation.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martin-Aziz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=E0AAFF&rank_icon=github&count_private=true&include_all_commits=true" height="180"/>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/reliable-workflows-lab">01 · Reliable Workflows Lab</a></h3>
+      <p>A Go job-processing lab for idempotent submissions, worker leases, retries, crash recovery, and PostgreSQL-backed job state. Documents the trade-offs between an in-memory engine and durable execution.</p>
+      <p><code>Go</code> <code>PostgreSQL</code> <code>Concurrency</code> <code>Testing</code></p>
+      <sub><b>Status:</b> actively evolving; real-database durability certification is still pending.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/Codex-Bridge.">02 · Codex Bridge</a></h3>
+      <p>A local-first control plane for Codex coding sessions: authenticated API, SQLite task history, structured reports, dashboard, and a scoped MCP endpoint. Designed with explicit local security boundaries.</p>
+      <p><code>TypeScript</code> <code>Node.js</code> <code>SQLite</code> <code>Codex SDK</code></p>
+      <sub><b>Status:</b> read-only local prototype; remote tunnel integration is not claimed as live.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/Martinus_coding_Agent">03 · Martinus Coding Agent</a></h3>
+      <p>A local-first coding-agent research project with staged planning and verification, sandboxed worktrees, permission tiers, repository mapping, and an optional independent reviewer.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Rust</code> <code>Tauri</code></p>
+      <sub><b>Focus:</b> software-agent architecture, isolation, and verification.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/Scopra">04 · Scopra / NEXUS-MCP</a></h3>
+      <p>An MCP gateway MVP exploring access control, human approval for sensitive actions, revocation, and auditable agent tool use across a Go API, Rust CLI, and web dashboard.</p>
+      <p><code>Go</code> <code>Rust</code> <code>Next.js</code> <code>Security</code></p>
+      <sub><b>Status:</b> MVP; external connector execution remains stubbed.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/Moonlit-Reel">05 · Moonlit Reel</a></h3>
+      <p>An offline-first macOS media application combining a SwiftUI interface with a Rust core for library indexing, search, audio processing, and audiobook-oriented playback flows.</p>
+      <p><code>SwiftUI</code> <code>Rust</code> <code>AVFoundation</code> <code>Desktop</code></p>
+      <sub><b>Focus:</b> native experience, performance-oriented architecture, and local data.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Martin-Aziz/RepoPulse">06 · RepoPulse</a></h3>
+      <p>A small, read-only GitHub repository intelligence CLI. It inspects issues, pull requests, recent commits, and aging work, with bounded pagination, JSON output, and offline tests.</p>
+      <p><code>TypeScript</code> <code>GitHub REST API</code> <code>CLI</code> <code>Tests</code></p>
+      <sub><b>Focus:</b> careful API integration and clearly documented limits.</sub>
+    </td>
+  </tr>
+</table>
 
-## What I'm Doing
+## More public projects
 
-- **Open Source:** Building and shipping production-grade open-source tools across AI, security, and systems — everything I make is public.
-- **Leveling up:** Deep diving into Advanced Reverse Engineering and Distributed Systems in Rust.
-- **Exploring AI:** Building multi-agent platforms, persistent AI memory systems, and autonomous orchestration runtimes.
-- **Building:** Fast, secure backend services using Go, Rust, and modern tooling.
+| Discipline | Selected repositories | What they explore |
+|:--|:--|:--|
+| **Agent infrastructure** | [NerveOS](https://github.com/Martin-Aziz/NerveOS) · [Forever-Memory](https://github.com/Martin-Aziz/Forever-Memory) · [Symphony-OS](https://github.com/Martin-Aziz/Symphony-OS) | Context shaping, persistent agent memory, orchestration, and governance architectures. |
+| **Security engineering** | [Deepfake-Verify](https://github.com/Martin-Aziz/Deepfake-Verify) · [RED-HIVE](https://github.com/Martin-Aziz/RED-HIVE) | Video provenance experiments and controlled, authorization-based security testing. |
+| **Native & creative tools** | [Whisper Page](https://github.com/Martin-Aziz/Whisper-Page) · [ApertureOS](https://github.com/Martin-Aziz/ApertureOS) | Local-first editing and a browser/desktop image-processing MVP foundation. |
+| **Product & integration** | [Encora](https://github.com/Martin-Aziz/Encora) · [SentinelClaims](https://github.com/Martin-Aziz/SentinelClaims) · [AutonomIQ Procurement](https://github.com/Martin-Aziz/AutonomIQ_Procurement) | Application boundaries and exploratory enterprise workflow products. |
 
-## Open Source
-
-All my projects are open source — I believe in building in public and contributing to the community.
-
-[![GitHub](https://img.shields.io/badge/All%20Projects-Open%20Source-9D4EDD?style=flat-square&logo=github&logoColor=white)](https://github.com/Martin-Aziz)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-9D4EDD?style=flat-square)
-
-## Academic & Technical Journey
-
-- 🔐 **Security & Forensics:** Penetration Testing, Digital Forensics, IT Security (Completed)
-- 🤖 **AI / ML / Data Science:** Machine Learning, Computer Vision, Data Science (Completed)
-- ⚙️ **Systems & Low-Level:** C / C++ Systems Programming, Parallel Programming, Microservices with Go (Completed)
-- 🌐 **Web & Mobile:** Full-Stack Web, Flutter, SAP Fiori (Completed)
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Martin_Aziz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/martinushd)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Martin-Aziz)
-[![Email](https://img.shields.io/badge/-martinazizhd@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:martinazizhd@gmail.com)
-
----
-
-### Engineering Philosophy
-
-- 🎯 **Precision** — Write code that does exactly what it should. No more, no less.
-- 🔍 **Clarity** — Code is read far more often than written. Make it human.
-- 🏗️ **Architecture** — Great systems are designed intentionally, not accumulated by accident.
-- 🛡️ **Security First** — Never an afterthought. Baked in from day one.
-- 🚀 **Impact** — Technology is only meaningful in service of people and real outcomes.
+Projects range from research and proof-of-concept implementations to more complete applications. A repository's README is the source of truth for current scope, tests, and limitations. I do not present unverified prototypes as deployed production systems.
 
 <details>
-<summary>Random Facts</summary>
+  <summary><b>Browse other public repositories and open-source contributions</b></summary>
 
-- Treat complex systems like puzzles waiting to be solved.
-- I speak fluent German 🇩🇪 and English 🇬🇧.
-- I believe great software is technically excellent *and* human-centered.
-
+  <p>My GitHub also includes experiments, learning projects, tools, and contributions to other maintainers' repositories. Forks and contributions are distinct from original projects.</p>
+  <ul>
+    <li><a href="https://github.com/Martin-Aziz?tab=repositories">Full repository directory</a></li>
+    <li><a href="https://github.com/Martin-Aziz?tab=repositories&type=source">Original repositories</a></li>
+    <li><a href="https://github.com/Martin-Aziz?tab=repositories&type=fork">Forks and upstream exploration</a></li>
+    <li><a href="https://github.com/Martin-Aziz/reliable-workflows-lab">Reliability patterns and backend engineering</a></li>
+  </ul>
 </details>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,40:5a189a,70:3c096c,100:0a0015&height=100&section=footer" width="100%"/>
-</div>
+## Selected private product work
+
+Some of my most product-focused engineering work is developed in private repositories. These are **high-level portfolio descriptions only**; no private code, credentials, internal architecture diagrams, or customer information is published here.
+
+- **Finance operations software** — workflows for reconciliation, reporting, exception handling, approvals, and traceable AI-assisted operations.
+- **Field-service intelligence** — equipment-aware troubleshooting assistance, document-grounded guidance, and technician workflow support.
+- **Engineering document quality** — evidence-linked drawing analysis with human review, issue triage, and traceability.
+- **Native camera experiences** — iOS image capture, live image looks, portrait controls, and photography-oriented interaction design.
+- **Collaborative marketing software** — a shared workspace combining product workflows, APIs, and specialized AI assistants.
+
+*Code samples and implementation details are not publicly available for these projects. Their presence here does not imply open-source availability or a production release.*
+
+## How I approach engineering
+
+1. **Design for failure.** Think about retries, idempotency, authorization, cancellations, and partial progress before they become incidents.
+2. **Make decisions inspectable.** Prefer explicit contracts, useful logs, architectural notes, and traceable results over opaque automation.
+3. **Verify the important paths.** Isolated tests, integration checks, and reproducible failure cases matter more than a green-looking dashboard.
+4. **Care about the product.** Good software should be understandable to its users, not just impressive to its implementers.
+
+<p align="center">
+  <b>Interested in reliable AI systems, product engineering, or backend architecture?</b><br/>
+  <a href="https://www.linkedin.com/in/martinushd/">Let's connect on LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:martinazizhd@gmail.com">Email me</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Martin-Aziz?tab=repositories">Explore the code</a>
+</p>
+
+<p align="center">
+  <sub>Motion is intentionally minimal. The portfolio remains readable when animated images are blocked or reduced.</sub>
+</p>

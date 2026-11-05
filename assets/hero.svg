@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Martin Aziz — Software Engineer and Product Builder</title>
+  <desc id="desc">A dark indigo engineering-themed banner with Martin's name, areas of focus, and a connected systems diagram.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1226"/>
+      <stop offset="0.52" stop-color="#171A38"/>
+      <stop offset="1" stop-color="#24244B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8FD8EA"/>
+      <stop offset="1" stop-color="#C3A5FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A995FF" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#A995FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#B8C4FF" stroke-width=".6" opacity=".10"/>
+    </pattern>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+  <style>
+    /* Motion is progressive enhancement: the unanimated graphic stays complete. */
+    @keyframes signalFlow { to { stroke-dashoffset: -168; } }
+    @keyframes breathing { 0%, 100% { opacity: .26; } 50% { opacity: .52; } }
+    @keyframes ringGlow { 0%, 100% { stroke-opacity: .70; } 50% { stroke-opacity: 1; } }
+    .signal-flow { stroke-dasharray: 12 10; animation: signalFlow 13s linear infinite; }
+    .ambient-glow { animation: breathing 6s ease-in-out infinite; }
+    .center-ring { animation: ringGlow 4s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .signal-flow, .ambient-glow, .center-ring { animation: none; }
+    }
+  </style>
+  <rect width="1280" height="320" rx="22" fill="url(#background)"/>
+  <rect width="1280" height="320" rx="22" fill="url(#grid)"/>
+  <circle class="ambient-glow" cx="1026" cy="150" r="250" fill="url(#glow)"/>
+  <path d="M 70 64 H 161" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <text x="72" y="95" fill="#C5CFEB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="3">SOFTWARE ENGINEER / PRODUCT BUILDER</text>
+  <text x="68" y="178" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="73" font-weight="750" letter-spacing="-3">Martin Aziz</text>
+  <text x="73" y="220" fill="#C6D2E8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">AI systems  ·  Reliable backends  ·  Security  ·  Native apps</text>
+  <rect x="73" y="247" width="363" height="40" rx="20" fill="#A5B6FF" fill-opacity=".09" stroke="#96B8E9" stroke-opacity=".3"/>
+  <circle cx="96" cy="267" r="6" fill="#83E6C2"/>
+  <text x="115" y="273" fill="#D2E3F1" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15">Build  /  Verify  /  Ship</text>
+
+  <g transform="translate(866,47)" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 72 61 L 193 42 L 266 112 L 197 194 L 64 187 L 16 120 Z" fill="none" stroke="#95A7D9" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="5 8"/>
+    <path class="signal-flow" d="M72 61 L148 119 L193 42 M148 119 L266 112 M148 119 L197 194 M148 119 L64 187 M148 119 L16 120" fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2.5"/>
+    <path d="M 72 61 L 148 119 L 266 112" fill="none" stroke="#B2A7FF" stroke-opacity=".28" stroke-width="9" filter="url(#softGlow)"/>
+    <g fill="#1A2344" stroke="#A9B8E8" stroke-width="2">
+      <circle cx="72" cy="61" r="12"/>
+      <circle cx="193" cy="42" r="12"/>
+      <circle cx="266" cy="112" r="12"/>
+      <circle cx="197" cy="194" r="12"/>
+      <circle cx="64" cy="187" r="12"/>
+      <circle cx="16" cy="120" r="12"/>
+    </g>
+    <circle class="center-ring" cx="148" cy="119" r="30" fill="#242F56" stroke="#BEB0FF" stroke-width="2.5"/>
+    <circle cx="148" cy="119" r="17" fill="#A8A0FA" fill-opacity=".24"/>
+    <path d="M138 119 l7 7 l14 -17" fill="none" stroke="#E9E5FF" stroke-width="4"/>
+    <g fill="#BFD2E9" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">
+      <text x="44" y="33">API</text>
+      <text x="194" y="15">DATA</text>
+      <text x="268" y="90">AGENT</text>
+      <text x="208" y="225">AUDIT</text>
+      <text x="20" y="219">TESTS</text>
+    </g>
+  </g>
+</svg>
