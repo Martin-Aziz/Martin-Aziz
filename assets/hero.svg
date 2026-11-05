@@ -22,9 +22,21 @@
       <feGaussianBlur stdDeviation="9"/>
     </filter>
   </defs>
+  <style>
+    /* Motion is progressive enhancement: the unanimated graphic stays complete. */
+    @keyframes signalFlow { to { stroke-dashoffset: -168; } }
+    @keyframes breathing { 0%, 100% { opacity: .26; } 50% { opacity: .52; } }
+    @keyframes ringGlow { 0%, 100% { stroke-opacity: .70; } 50% { stroke-opacity: 1; } }
+    .signal-flow { stroke-dasharray: 12 10; animation: signalFlow 13s linear infinite; }
+    .ambient-glow { animation: breathing 6s ease-in-out infinite; }
+    .center-ring { animation: ringGlow 4s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .signal-flow, .ambient-glow, .center-ring { animation: none; }
+    }
+  </style>
   <rect width="1280" height="320" rx="22" fill="url(#background)"/>
   <rect width="1280" height="320" rx="22" fill="url(#grid)"/>
-  <circle cx="1026" cy="150" r="250" fill="url(#glow)"/>
+  <circle class="ambient-glow" cx="1026" cy="150" r="250" fill="url(#glow)"/>
   <path d="M 70 64 H 161" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
   <text x="72" y="95" fill="#C5CFEB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="3">SOFTWARE ENGINEER / PRODUCT BUILDER</text>
   <text x="68" y="178" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="73" font-weight="750" letter-spacing="-3">Martin Aziz</text>
@@ -35,7 +47,7 @@
 
   <g transform="translate(866,47)" stroke-linejoin="round" stroke-linecap="round">
     <path d="M 72 61 L 193 42 L 266 112 L 197 194 L 64 187 L 16 120 Z" fill="none" stroke="#95A7D9" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="5 8"/>
-    <path d="M72 61 L148 119 L193 42 M148 119 L266 112 M148 119 L197 194 M148 119 L64 187 M148 119 L16 120" fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2.5"/>
+    <path class="signal-flow" d="M72 61 L148 119 L193 42 M148 119 L266 112 M148 119 L197 194 M148 119 L64 187 M148 119 L16 120" fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2.5"/>
     <path d="M 72 61 L 148 119 L 266 112" fill="none" stroke="#B2A7FF" stroke-opacity=".28" stroke-width="9" filter="url(#softGlow)"/>
     <g fill="#1A2344" stroke="#A9B8E8" stroke-width="2">
       <circle cx="72" cy="61" r="12"/>
@@ -45,7 +57,7 @@
       <circle cx="64" cy="187" r="12"/>
       <circle cx="16" cy="120" r="12"/>
     </g>
-    <circle cx="148" cy="119" r="30" fill="#242F56" stroke="#BEB0FF" stroke-width="2.5"/>
+    <circle class="center-ring" cx="148" cy="119" r="30" fill="#242F56" stroke="#BEB0FF" stroke-width="2.5"/>
     <circle cx="148" cy="119" r="17" fill="#A8A0FA" fill-opacity=".24"/>
     <path d="M138 119 l7 7 l14 -17" fill="none" stroke="#E9E5FF" stroke-width="4"/>
     <g fill="#BFD2E9" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">
