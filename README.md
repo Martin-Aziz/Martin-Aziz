@@ -18,4 +18,15 @@
   <img src="./assets/ornament.svg" width="55%" alt="" />
 </p>
 
+
+---
+
+<p align="center">
+  <img src="./assets/idea-to-product.svg" width="100%" alt="From idea to product: Understand, Architect, Build, Verify. A four-stage navy and gold engineering illustration." />
+</p>
+
+<p align="center">
+  I start with the real problem and its constraints, design clear system boundaries, build a complete usable experience, and verify the edge cases before refining the details.
+</p>
+
 <p align="center"><sub>BUILD WITH INTENTION &nbsp;·&nbsp; DESIGN FOR REAL PEOPLE &nbsp;·&nbsp; VERIFY WHAT MATTERS</sub></p>
