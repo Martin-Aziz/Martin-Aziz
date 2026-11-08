@@ -14,6 +14,14 @@
   <img src="./assets/engineering-signature.svg" width="100%" alt="Engineering signature: Rust as language of choice; systems and backends, applied AI, product craft, security. Supporting technologies include Go, PostgreSQL, Python, and SwiftUI." />
 </p>
 
+<p align="center"><sub>THE LANGUAGES BEHIND THE WORK</sub></p>
+
+<p align="center">
+  <img src="./assets/language-gallery.svg" width="100%" alt="Five language icons in an illustrated gold-bordered gallery: Rust, Go, Python, TypeScript, and Swift." />
+</p>
+
+<p align="center"><strong>Rust</strong> &nbsp;·&nbsp; Go &nbsp;·&nbsp; Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Swift</p>
+
 <p align="center">
   <img src="./assets/ornament.svg" width="55%" alt="" />
 </p>
