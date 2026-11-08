@@ -1,62 +1,49 @@
-<!-- Minimal editorial profile. Keep descriptions broad and avoid project-specific disclosures. -->
+<!-- Quiet portfolio: engineering substance without venture or contribution disclosures. -->
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Martin Aziz — software engineer and product builder. Navy and gold illuminated geometric artwork." />
-</p>
-
-<p align="center"><strong>From first principles to finished software.</strong></p>
-
-<p align="center">
-  I turn complex ideas into thoughtful, reliable products — from problem definition and system architecture to implementation, verification, and user experience.
+  <img src="./assets/hero.svg" width="100%" alt="Martin Aziz — software engineer and product builder; illustrated cobalt and gold hero." />
 </p>
 
 <p align="center">
-  <img src="./assets/engineering-signature.svg" width="100%" alt="Engineering signature: Rust as language of choice; systems and backends, applied AI, product craft, security. Supporting technologies include Go, PostgreSQL, Python, and SwiftUI." />
-</p>
-
-<p align="center"><sub>THE LANGUAGES BEHIND THE WORK</sub></p>
-
-<p align="center">
-  <img src="./assets/language-gallery.svg" width="100%" alt="Five language icons in an illustrated gold-bordered gallery: Rust, Go, Python, TypeScript, and Swift." />
-</p>
-
-<p align="center"><strong>Rust</strong> &nbsp;·&nbsp; Go &nbsp;·&nbsp; Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Swift</p>
-
-<p align="center">
-  <img src="./assets/ornament.svg" width="55%" alt="" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="./assets/idea-to-product.svg" width="100%" alt="From idea to product: Understand, Architect, Build, Verify. A four-stage navy and gold engineering illustration." />
+  <strong>From first principles to finished software.</strong>
 </p>
 
 <p align="center">
-  I start with the real problem and its constraints, design clear system boundaries, build a complete usable experience, and verify the edge cases before refining the details.
+  I turn complex ideas into thoughtful, reliable products — from understanding a problem and designing the architecture to building, testing, and refining the experience.
 </p>
-
-## What I optimize for
-
-<p align="center"><img src="./assets/principles.svg" width="100%" alt="" /></p>
 
 <p align="center">
-  <strong>Clarity</strong> — Understand the problem before choosing the tools.<br/>
-  <strong>Reliability</strong> — Design for failure, recovery, and verifiable outcomes.<br/>
-  <strong>Craft</strong> — Make the final experience useful, intuitive, and considered.
+  <img src="./assets/engineering-signature.svg" width="100%" alt="Engineering signature: Rust, systems and backends, applied AI, product craft, and security." />
 </p>
 
-## Beyond the happy path
+<p align="center"><sub>LANGUAGES I BUILD WITH</sub></p>
 
 <p align="center">
-  <img src="./assets/engineering-questions.svg" width="100%" alt="" />
+  <img src="./assets/icons/rust.svg" width="40" height="40" alt="Rust" /> &nbsp;&nbsp;
+  <img src="./assets/icons/go.svg" width="40" height="40" alt="Go" /> &nbsp;&nbsp;
+  <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" /> &nbsp;&nbsp;
+  <img src="./assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" /> &nbsp;&nbsp;
+  <img src="./assets/icons/swift.svg" width="40" height="40" alt="Swift" />
 </p>
 
-**What happens after a failure?** Design for concurrency, idempotency, bounded retries, and observable recovery.
+<p align="center"><strong>Rust</strong> · Go · Python · TypeScript · Swift</p>
 
-**Who or what is allowed to act?** Define permissions, least-privilege access, human checkpoints, and traceable decisions.
+<p align="center">
+  <img src="./assets/ornament.svg" width="36%" alt="" />
+</p>
 
-**How do we know it works?** Combine automated tests, realistic edge cases, and a usable interface — not demos alone.
+### From idea to product
 
-<p align="center"><sub>BUILD WITH INTENTION &nbsp;·&nbsp; DESIGN FOR REAL PEOPLE &nbsp;·&nbsp; VERIFY WHAT MATTERS</sub></p>
+<p align="center">
+  <strong>Understand</strong> &nbsp;✧&nbsp; <strong>Architect</strong> &nbsp;✧&nbsp; <strong>Build</strong> &nbsp;✧&nbsp; <strong>Verify</strong>
+</p>
+
+Every stage has a purpose: clarify the real problem, design the boundaries, make the experience useful, and test what happens beyond the happy path.
+
+### The engineering beneath the interface
+
+- **Recoverability** — concurrency, idempotency, retries, and explicit failure states.
+- **Trust boundaries** — least-privilege access, authorization, and traceable decisions.
+- **Evidence** — automated tests, meaningful edge cases, and observability.
+
+<p align="center"><sub>BUILD WITH INTENTION &nbsp;·&nbsp; DESIGN FOR PEOPLE &nbsp;·&nbsp; VERIFY WHAT MATTERS</sub></p>
