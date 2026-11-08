@@ -46,4 +46,14 @@ Every stage has a purpose: clarify the real problem, design the boundaries, make
 - **Trust boundaries** — least-privilege access, authorization, and traceable decisions.
 - **Evidence** — automated tests, meaningful edge cases, and observability.
 
+---
+
+<p align="center"><strong>Let's talk engineering.</strong></p>
+
+<p align="center">I enjoy conversations about reliable systems, applied AI, and software that brings thoughtful ideas into everyday use.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/martinushd/">Connect on LinkedIn</a>
+</p>
+
 <p align="center"><sub>BUILD WITH INTENTION &nbsp;·&nbsp; DESIGN FOR PEOPLE &nbsp;·&nbsp; VERIFY WHAT MATTERS</sub></p>
