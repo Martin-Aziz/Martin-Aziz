@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="244" viewBox="0 0 1100 244" role="img" aria-labelledby="title desc">
+<title id="title">Engineering disciplines — Rust at the center</title>
+<desc id="desc">An elegant cobalt-and-gold technical signature with Rust as the language of choice, surrounded by systems engineering, applied AI, product development, and security research.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#102341"/><stop offset="1" stop-color="#1D3557"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A7844D"/><stop offset=".55" stop-color="#EFDAAA"/><stop offset="1" stop-color="#A7844D"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#A8B5D0" stroke-opacity=".07" fill="none"/></pattern>
+</defs>
+<rect x="0" y="0" width="1100" height="244" rx="14" fill="url(#bg)"/>
+<rect width="1100" height="244" rx="14" fill="url(#grid)"/>
+<rect x="11" y="11" width="1078" height="222" rx="8" fill="none" stroke="#D8B77E" stroke-opacity=".54"/>
+<rect x="18" y="18" width="1064" height="208" rx="6" fill="none" stroke="#C3A773" stroke-opacity=".25"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<text x="550" y="48" fill="#D7BC8E" font-size="13" font-weight="600" letter-spacing="4">THE ENGINEERING SIGNATURE</text>
+<path d="M110 67H990" stroke="#E3C58D" stroke-opacity=".28"/>
+<text x="502" y="120" text-anchor="end" fill="#FFF3DA" font-family="Georgia, Times New Roman, serif" font-size="52" font-style="italic">Rust</text>
+<text x="523" y="119" text-anchor="start" fill="#D6C9B4" font-family="Georgia, Times New Roman, serif" font-size="20">— language of choice</text>
+<path d="M137 142H963" stroke="#DCC28D" stroke-opacity=".32"/>
+<text x="176" y="179" fill="#F3E7D0" font-size="18">SYSTEMS &amp; BACKENDS</text>
+<text x="440" y="179" fill="#F3E7D0" font-size="18">APPLIED AI</text>
+<text x="665" y="179" fill="#F3E7D0" font-size="18">PRODUCT CRAFT</text>
+<text x="915" y="179" fill="#F3E7D0" font-size="18">SECURITY</text>
+<text x="176" y="201" fill="#AFC5DE" font-size="13">Go · PostgreSQL · APIs</text>
+<text x="440" y="201" fill="#AFC5DE" font-size="13">Python · RAG · Agents</text>
+<text x="665" y="201" fill="#AFC5DE" font-size="13">SwiftUI · TypeScript</text>
+<text x="915" y="201" fill="#AFC5DE" font-size="13">Analysis · Reversing</text>
+</g>
+<g fill="#DCC28D"><path d="M60 121l11-11 11 11-11 11z"/><path d="M1018 121l11-11 11 11-11 11z"/></g>
+</svg>

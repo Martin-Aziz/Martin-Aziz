@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="70" viewBox="0 0 700 70" role="img" aria-label="Gold illuminated ornamental divider">
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#84602E"/><stop offset=".5" stop-color="#DDB973"/><stop offset="1" stop-color="#84602E"/></linearGradient></defs>
+<path d="M35 35H292M408 35H665" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<path d="M350 10L375 35 350 60 325 35Z" fill="none" stroke="#AF864C" stroke-width="2"/>
+<path d="M350 19L366 35 350 51 334 35Z" fill="#B98E55" fill-opacity=".25" stroke="#D4AE72"/>
+<circle cx="350" cy="35" r="4" fill="#D9B16D"/>
+<path d="M292 35L308 19 324 35 308 51ZM408 35L392 19 376 35 392 51Z" fill="none" stroke="#C8A063" stroke-width="2"/>
+<circle cx="34" cy="35" r="3" fill="#B78E4D"/><circle cx="666" cy="35" r="3" fill="#B78E4D"/>
+</svg>
