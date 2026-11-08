@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="154" viewBox="0 0 1080 154" role="img" aria-labelledby="title description">
+<title id="title">Three engineering questions</title>
+<desc id="description">A horizontal cobalt and gold illustration: recovery, permission boundaries, and verification.</desc>
+<defs>
+<linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+<stop stop-color="#081A2D"/><stop offset=".55" stop-color="#102A45"/><stop offset="1" stop-color="#081B30"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+<stop stop-color="#A17C46"/><stop offset=".5" stop-color="#EAD19A"/><stop offset="1" stop-color="#A17C46"/>
+</linearGradient>
+</defs>
+<rect x="2" y="2" width="1076" height="150" rx="16" fill="url(#night)" stroke="url(#gold)" stroke-width="2"/>
+<rect x="11" y="11" width="1058" height="132" rx="11" fill="none" stroke="#D1AC70" stroke-opacity=".29"/>
+<path d="M55 76H265 M385 76H695 M815 76H1025" stroke="url(#gold)" stroke-opacity=".65" stroke-width="2"/>
+<g fill="#0D2742" stroke="#E3C58A" stroke-width="2.5">
+<circle cx="325" cy="76" r="48"/><circle cx="755" cy="76" r="48"/>
+<circle cx="105" cy="76" r="0"/>
+</g>
+<!-- A looping arrow represents recovering a failed operation. -->
+<g transform="translate(325 76)" fill="none" stroke="#E9CC91" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M18 -16 A27 27 0 1 0 21 15"/>
+<path d="M18 -32V-16H2"/>
+</g>
+<!-- The second motif represents authorization boundaries. -->
+<g transform="translate(755 76)" fill="none" stroke="#E9CC91" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M0 -30L24 -20V4C24 22 12 33 0 39C-12 33 -24 22 -24 4V-20Z"/>
+<path d="M-11 3L-2 12L14 -7"/>
+</g>
+<!-- The third symbol is a simple end-cap verification mark. -->
+<g transform="translate(1025 76)" fill="none" stroke="#E9CC91" stroke-width="3">
+<path d="M-11 1L-2 10L13 -8"/>
+</g>
+<g fill="#E5C78B">
+<path d="M24 76L33 67L42 76L33 85Z"/>
+<path d="M1038 76L1047 67L1056 76L1047 85Z"/>
+</g>
+</svg>
