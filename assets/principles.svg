@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="126" viewBox="0 0 960 126" role="img" aria-labelledby="title desc">
+<title id="title">Three engineering principles</title>
+<desc id="desc">A delicate cobalt and gold ornamental strip containing three symbolic medallions for clarity, reliability, and craft.</desc>
+<defs>
+<linearGradient id="navy" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0A1B31"/><stop offset=".6" stop-color="#112944"/><stop offset="1" stop-color="#0A1B31"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#9C773F"/><stop offset=".55" stop-color="#EFDAA4"/><stop offset="1" stop-color="#A6804A"/></linearGradient>
+</defs>
+<rect x="1.5" y="1.5" width="957" height="123" rx="14" fill="url(#navy)" stroke="url(#gold)" stroke-width="2"/>
+<rect x="9" y="9" width="942" height="108" rx="9" fill="none" stroke="#C6A46D" stroke-opacity=".3"/>
+<path d="M 52 63 H 119 M 201 63 H 439 M 521 63 H 759 M 841 63 H 908" stroke="url(#gold)" stroke-opacity=".72" stroke-width="1.6"/>
+<g fill="none" stroke="#E6C98D" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+  <circle cx="160" cy="63" r="41" stroke-opacity=".7"/>
+  <path d="M135 63 Q160 40 185 63 Q160 86 135 63Z"/>
+  <circle cx="160" cy="63" r="7" fill="#C6A06A" stroke="none"/>
+  <circle cx="480" cy="63" r="41" stroke-opacity=".7"/>
+  <path d="M480 40 L499 48 V64 C499 77 489 87 480 91 C471 87 461 77 461 64 V48Z"/>
+  <path d="M470 65 L477 72 L490 57"/>
+  <circle cx="800" cy="63" r="41" stroke-opacity=".7"/>
+  <path d="M800 38 L806 56 L824 63 L806 70 L800 88 L794 70 L776 63 L794 56Z"/>
+  <path d="M822 37 L825 46 L834 49 L825 52 L822 61 L819 52 L810 49 L819 46Z" stroke-opacity=".55"/>
+</g>
+<g fill="#E0BE7F"><path d="M22 63 L30 55 L38 63 L30 71Z"/><path d="M922 63 L930 55 L938 63 L930 71Z"/></g>
+</svg>
