@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="160" viewBox="0 0 1080 160" role="img" aria-labelledby="title description">
+<title id="title">Engineering beyond the happy path</title>
+<desc id="description">An illustrated cobalt-and-gold ornament with symbols for recoverability, permission boundaries, and verification.</desc>
+<defs>
+  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#081A2D"/><stop offset=".55" stop-color="#102A45"/><stop offset="1" stop-color="#081B30"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#9F7843"/><stop offset=".5" stop-color="#EAD29C"/><stop offset="1" stop-color="#9F7843"/>
+  </linearGradient>
+</defs>
+<rect x="2" y="2" width="1076" height="156" rx="16" fill="url(#night)" stroke="url(#gold)" stroke-width="2"/>
+<rect x="11" y="11" width="1058" height="138" rx="11" fill="none" stroke="#D1AC70" stroke-opacity=".29"/>
+<path d="M33 80H159M261 80H489M591 80H819M921 80H1047" stroke="url(#gold)" stroke-opacity=".60" stroke-width="1.7"/>
+<g fill="#102843" stroke="#E3C58A" stroke-width="2.5">
+  <circle cx="210" cy="80" r="49"/>
+  <circle cx="540" cy="80" r="49"/>
+  <circle cx="870" cy="80" r="49"/>
+</g>
+<g fill="none" stroke="#E9CD94" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M226 62A25 25 0 1 0 229 94"/>
+  <path d="M226 47V62H211"/>
+  <path d="M540 51L564 61V81C564 100 552 111 540 118C528 111 516 100 516 81V61Z"/>
+  <path d="M529 81L538 90L552 74"/>
+  <rect x="846" y="56" width="48" height="49" rx="6"/>
+  <path d="M856 81L866 91L884 70"/>
+</g>
+<g fill="#DDBA7C" stroke="#DDBA7C">
+  <path d="M32 80L41 71L50 80L41 89Z"/>
+  <path d="M1030 80L1039 71L1048 80L1039 89Z"/>
+  <circle cx="376" cy="80" r="3"/><circle cx="704" cy="80" r="3"/>
+</g>
+</svg>

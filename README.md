@@ -47,4 +47,16 @@
   <strong>Craft</strong> — Make the final experience useful, intuitive, and considered.
 </p>
 
+## Beyond the happy path
+
+<p align="center">
+  <img src="./assets/engineering-questions.svg" width="100%" alt="" />
+</p>
+
+**What happens after a failure?** Design for concurrency, idempotency, bounded retries, and observable recovery.
+
+**Who or what is allowed to act?** Define permissions, least-privilege access, human checkpoints, and traceable decisions.
+
+**How do we know it works?** Combine automated tests, realistic edge cases, and a usable interface — not demos alone.
+
 <p align="center"><sub>BUILD WITH INTENTION &nbsp;·&nbsp; DESIGN FOR REAL PEOPLE &nbsp;·&nbsp; VERIFY WHAT MATTERS</sub></p>
