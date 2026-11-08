@@ -29,4 +29,14 @@
   I start with the real problem and its constraints, design clear system boundaries, build a complete usable experience, and verify the edge cases before refining the details.
 </p>
 
+## What I optimize for
+
+<p align="center"><img src="./assets/principles.svg" width="100%" alt="" /></p>
+
+<p align="center">
+  <strong>Clarity</strong> — Understand the problem before choosing the tools.<br/>
+  <strong>Reliability</strong> — Design for failure, recovery, and verifiable outcomes.<br/>
+  <strong>Craft</strong> — Make the final experience useful, intuitive, and considered.
+</p>
+
 <p align="center"><sub>BUILD WITH INTENTION &nbsp;·&nbsp; DESIGN FOR REAL PEOPLE &nbsp;·&nbsp; VERIFY WHAT MATTERS</sub></p>
