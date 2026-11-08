@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Minimal editorial profile. Keep descriptions broad and avoid project-specific disclosures. -->
 
-<!--
-**Martin-Aziz/Martin-Aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Martin Aziz — software engineer and product builder. Navy and gold illuminated geometric artwork." />
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><strong>From first principles to finished software.</strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I turn complex ideas into thoughtful, reliable products — from problem definition and system architecture to implementation, verification, and user experience.
+</p>
+
+<p align="center">
+  <img src="./assets/engineering-signature.svg" width="100%" alt="Engineering signature: Rust as language of choice; systems and backends, applied AI, product craft, security. Supporting technologies include Go, PostgreSQL, Python, and SwiftUI." />
+</p>
+
+<p align="center">
+  <img src="./assets/ornament.svg" width="55%" alt="" />
+</p>
+
+<p align="center"><sub>BUILD WITH INTENTION &nbsp;·&nbsp; DESIGN FOR REAL PEOPLE &nbsp;·&nbsp; VERIFY WHAT MATTERS</sub></p>
